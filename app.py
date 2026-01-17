@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, Azure! This is my first Flask web app."
+    return "Hello, Iam Learning Azure."
 
 if __name__ == "__main__":
     app.run()
